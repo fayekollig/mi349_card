@@ -1,0 +1,22 @@
+body {
+    background-color: lightsteelblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkslateblue;
+}
+
+img {
+    width: 100%;
+}
+
+.card {
+    background-color: lightgrey;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.card .avatar {
+    border-radius: 100%;
+    width: 25%;
+}
