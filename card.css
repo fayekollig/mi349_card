@@ -52,6 +52,6 @@ h2 {
 }
 
 .contacts img:hover {
-    rotate: 90deg;
-    transition: rotate ease-in-out 0.5s;
+    opacity: 0.8;
+    transition: opacity ease-in-out 0.5s;
 }
