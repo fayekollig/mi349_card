@@ -8,6 +8,20 @@ img {
     width: 100%;
 }
 
+h1 {
+    font-size: 2em;
+    padding: 0;
+    margin: 0;
+    font-weight: 900;
+}
+
+h2 { 
+    font-size: 0.75em;
+    padding: 0;
+    margin: 0;
+    font-weight: 200;
+}
+
 .card {
     background-color: lightgrey;
     width: 400px;
@@ -17,6 +31,21 @@ img {
 }
 
 .card .avatar {
-    border-radius: 100%;
+    border-radius: 50%;
     width: 25%;
+    margin-top: -50px;
 }
+
+.contacts {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.contacts li {
+    width: 15%;
+    display: inline-block;
+    padding: 20px 10px;
+}
+
+
