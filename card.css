@@ -52,6 +52,6 @@ h2 {
 }
 
 .contacts img:hover {
-    border: 1px dotted lightsteelblue;
-    transition: border ease-in-out 0.5s;
+    rotate: 5deg;
+    transition: rotate ease-in-out 0.5s;
 }
