@@ -52,6 +52,6 @@ h2 {
 }
 
 .contacts img:hover {
-    opacity: 0.8;
+    opacity: 0.5;
     transition: opacity ease-in-out 0.5s;
 }
