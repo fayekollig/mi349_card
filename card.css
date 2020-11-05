@@ -53,5 +53,5 @@ h2 {
 
 contacts img:hover {
     border: 5px solid darkslateblue;
-    transition: border ease-in-out 02.s;
+    transition: border ease-in-out 0.5s;
 }
