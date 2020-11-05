@@ -28,12 +28,14 @@ h2 {
     text-align: center;
     margin: 0 auto;
     border-radius: 20px;
+    box-shadow: lightslategrey 10px 10px 10px;
 }
 
 .card .avatar {
     border-radius: 50%;
     width: 25%;
     margin-top: -50px;
+    box-shadow: lightslategrey 5px 5px 5px;
 }
 
 .contacts {
@@ -48,4 +50,7 @@ h2 {
     padding: 20px 10px;
 }
 
-
+contacts li a img:hover {
+    border: 5px solid darkslateblue;
+    transition: border ease-in-out 02.s;
+}
