@@ -9,10 +9,11 @@ img {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 2.25em;
     padding: 0;
     margin: 0;
     font-weight: 900;
+    color: black;
 }
 
 h2 { 
@@ -26,7 +27,7 @@ h2 {
     background-color: lightgrey;
     width: 400px;
     text-align: center;
-    margin: 50px auto;
+    margin: 75px auto;
     border-radius: 20px;
     box-shadow: lightslategrey 10px 10px 10px;
 }
@@ -50,7 +51,7 @@ h2 {
     padding: 20px 10px;
 }
 
-contacts li a img:hover {
+contacts img:hover {
     border: 5px solid darkslateblue;
     transition: border ease-in-out 02.s;
 }
